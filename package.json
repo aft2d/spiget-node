@@ -1,0 +1,12 @@
+{
+    "name": "kolumina_spigetNodeJS",
+    "version": "1.0.0",
+    "keywords": ["util", "spiget", "minecraft", "spigot", "bukkit"],
+    "author": "aft2d <aft2d@kolumina.com>",
+    "contributors": [],
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/aft2d/apiget-node.git"
+    }
+}
