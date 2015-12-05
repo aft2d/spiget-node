@@ -1,4 +1,4 @@
-var spiget = require("./spiget.js");
+var spiget = require("./index.js");
 
 
 spiget.getResources(100,function(result) {
